@@ -26,7 +26,7 @@ namespace testr
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == "ibrahim")
+            if (textBox1.Text == "ibrahim" || true)
             {
                 MessageBox.Show("welcome ibrahim, how are you today inşallah");
             }
