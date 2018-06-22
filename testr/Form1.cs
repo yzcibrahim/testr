@@ -20,6 +20,7 @@ namespace testr
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("asdasdasdasd");
+            MessageBox.Show("editted");
         }
     }
 }
