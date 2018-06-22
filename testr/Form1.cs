@@ -35,6 +35,8 @@ namespace testr
                 MessageBox.Show("who are you man????");
 
             }
+            var integer = 3;
+            var total = integer + 4;
         }
 
         private void label1_Click(object sender, EventArgs e)
