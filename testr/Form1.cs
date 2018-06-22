@@ -21,6 +21,25 @@ namespace testr
         {
             MessageBox.Show("asdasdasdasd");
             MessageBox.Show("editted");
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "ibrahim")
+            {
+                MessageBox.Show("welcome ibrahim, how are you today inşallah");
+            }
+            else
+            {
+                MessageBox.Show("who are you man????");
+
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
